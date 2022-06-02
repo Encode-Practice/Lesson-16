@@ -22,6 +22,8 @@ https://docs.ipfs.io/how-to/command-line-quick-start/
 https://docs.nestjs.com/techniques/file-upload
 
 https://www.npmjs.com/package/node-json-db
+
+https://nft.storage/
 # Homework
 * Read the references
 * Experiment with IPFS with other files and folders
